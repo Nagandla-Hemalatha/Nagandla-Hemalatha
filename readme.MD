@@ -6,33 +6,20 @@ I'm a passionate **DevOps Engineer** with **3.2+ years of experience** in buildi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nagandla-hemalatha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagandla2001@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ nagandla-hemalatha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagandla2001@gmail.com) 
 
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack
 
-### ☁️ Cloud
-- **AWS**
-
-### 🔧 Infrastructure as Code
-- **Terraform**
-
-### ⚙️ Configuration Management
-- **Ansible**
-
-### 🚀 CI/CD & Automation
-- **Jenkins**
-
-### 📦 Containerization & Orchestration
-- **Docker**, **Kubernetes (EKS)**, **Helm**
-
-### 📝 Scripting & Source Control
-- **Shell Scripting**, **Git**, **GitHub**
-
-### 📊 Code Analysis & Monitoring
-- **SonarQube**, **Prometheus**, **Grafana**
+**Cloud:** AWS  
+**Infrastructure as Code (IaC):** Terraform  
+**Configuration Management:** Ansible  
+**CI/CD & Automation:** Jenkins  
+**Containers & Orchestration:** Docker, Kubernetes (EKS), Helm  
+**Scripting & Source Control:** Shell, Git, GitHub  
+**Code Analysis & Monitoring:** SonarQube, Prometheus, Grafana
 
 ---
 
@@ -76,5 +63,3 @@ I'm a passionate **DevOps Engineer** with **3.2+ years of experience** in buildi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nagandla-Hemalatha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
