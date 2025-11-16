@@ -2,13 +2,16 @@
 DevOps Engineer @ Cognizant  
 🚀 DevOps • Cloud • CI/CD • Kubernetes • Terraform • Automation
 
-[LinkedIn](#)  [GitHub](#)  [Email](mailto:your.email@example.com)
-
 I'm a passionate **DevOps Engineer** with **3.2+ years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nagandla-hemalatha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagandla2001@gmail.com) 
+
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
 ### ☁️ Cloud
 - **AWS**
@@ -45,21 +48,26 @@ I'm a passionate **DevOps Engineer** with **3.2+ years of experience** in buildi
 
 ---
 
-## 💼 Career Snapshot
+### 🛠 Languages and Tools
 
-🏢 **Cognizant – DevOps Engineer**  
-Designing CI/CD pipelines, Kubernetes deployments, and AWS-based cloud automation. Enhancing delivery speed and system reliability across multiple projects.
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+</p>
 
 ---
-
-## ⚙️ Skills Showcase
-
-AWS • Terraform • Ansible • Jenkins • Docker • Kubernetes • Helm  
-Linux • Shell Scripting • Git • VS Code • SonarQube • Prometheus • Grafana
-
----
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nagandla-Hemalatha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -68,3 +76,5 @@ Linux • Shell Scripting • Git • VS Code • SonarQube • Prometheus • G
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nagandla-Hemalatha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
