@@ -2,7 +2,7 @@
 DevOps Engineer @ Cognizant  
 🚀 DevOps • Cloud • CI/CD • Kubernetes • Terraform • Automation
 
-I'm a passionate **DevOps Engineer** with **3.2+ years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
+I'm a passionate ** AWS DevOps Engineer** with **3.3 years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
 
 
 ## 🌐 Socials:
