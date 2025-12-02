@@ -1,8 +1,11 @@
-👋 Hi, I'm  Nagandla Hemalatha 
-DevOps Engineer @ Cognizant  
-🚀 DevOps • Cloud • CI/CD • Kubernetes • Terraform • Automation
+<p align="center">
+  <img src="c:\Users\nsril\Downloads\DevOps.jpg" width="150" />
+</p>
 
-I'm a passionate ** AWS DevOps Engineer** with **3.3 years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
+👋 **Hi, I'm Hemalatha**  
+🚀 DevOps Engineer | AWS Enthusiast | Automation & Cloud Infrastructure
+
+I'm a passionate ** AWS DevOps Engineer** with **3+ years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
 
 
 ## 🌐 Socials:
