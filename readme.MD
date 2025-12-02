@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nagandla-Hemalatha/Nagandla-Hemalatha/main/DevOps.jpg" width="150" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagandla-hemalatha)
 </p>
+
+
 
 👋 **Hi, I'm Hemalatha**  
 🚀 DevOps Engineer | AWS Enthusiast | Automation & Cloud Infrastructure
@@ -8,8 +11,7 @@
 Welcome to my GitHub!  I'm a **DevOps Engineer** with **3+ years of experience** in building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. I specialize in AWS, container orchestration, IaC, and monitoring systems to ensure secure, reliable, and production-ready deployments.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagandla-hemalatha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagandla2001@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagandla-hemalatha)
 
 ---
 
