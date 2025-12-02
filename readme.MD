@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nagandla-Hemalatha/Nagandla-Hemalatha/main/DevOps.jpg" width="150" />
+  <img src="https://raw.githubusercontent.com/Nagandla-Hemalatha/Nagandla-Hemalatha/main/DevOps.jpg" width="250" />
 </p>
 
 
